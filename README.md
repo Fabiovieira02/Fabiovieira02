@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]([https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-]https://github.com/Fabiovieira02snake.svg)
   
 </div>
 
