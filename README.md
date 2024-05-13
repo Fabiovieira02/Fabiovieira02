@@ -18,13 +18,6 @@
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-]https://github.com/Fabiovieira02snake.svg)
-  
-</div>
-
   
   <h1 align="center">
     <a href="https://www.linkedin.com/in/edududuribeiro/">
