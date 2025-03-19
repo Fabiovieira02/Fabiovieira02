@@ -1,12 +1,13 @@
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+  <img width=100% height="100%" width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabio+Vieira;I'm+from+Brazil+:%29)](https://git.io/typing-svg)
 
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
+
+   <img width= 100% height="20%" width="20%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
