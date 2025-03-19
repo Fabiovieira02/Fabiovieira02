@@ -6,10 +6,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
+<img height="auto" width="100%" width=100% height="25" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Animated GIF" style="max-width: 10%; display: inline-block;" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-   <img width= 100% height="20%" width="20%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+  <img src="https://github.com/Fabiovieira02/Fabiovieira02/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 <div align="center">
 <div style="display: inline_block"><br>
